@@ -17,7 +17,7 @@ let arr=[{
     img:data[2],
     title:'Weather App',
     info:'Created Weather Website in React js using Live API',
-    visit:`https://taha003.github.io/React-Todo-Web-App/`  
+    visit:`https://taha003.github.io/React-Weather-App/`  
 },
 {
     img:data[3],

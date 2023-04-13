@@ -47,7 +47,7 @@ let arr=[{
 let projects=document.getElementById('projects')
 
 arr.map((e,i)=>{
-    return projects.innerHTML+=`<div class="col-md-4 my-2" key=${i}> <div class="card" style="width: 100%">
+    return projects.innerHTML+=`<div class="col-md-4 my-2" key=${i}> <div class="card" style="width: 100%;">
     <img class="card-img-top" src="${e.img}" alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">${e.title}</h5>

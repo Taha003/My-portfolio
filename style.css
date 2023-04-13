@@ -6,7 +6,9 @@ html,body
     overflow-x: hidden; 
     min-width: 100%;
     background-size: contain;
+    
 }
+
 .img1{
     /* max-height: 70vh; */
     width: 100vw;
@@ -59,6 +61,11 @@ section p {
     background-image: linear-gradient(to right, #cc2b5e, #bc2a6d, #a82e7a, #903483, #753a88);
     height: 70vh;
     /* padding: 100px; */
+    position: relative
+}
+.img{
+    position: fixed;
+    
 }
 .txt{
     position: absolute;
